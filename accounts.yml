@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+accounts:
+  message: "Welcome to BankLoan accounts related default APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "{cipher}bc2ec94023d68dfaaf31a5018df55b13d7067e0958910ac5dd6fea29eb834a3b"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
