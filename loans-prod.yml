@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 loans:
-  message: "Welcome to BankLoan cards related production APIs "
+  message: "Welcome to BankLoan cards related prod APIs "
   contactDetails:
     name: "Sahansha Khan - Product Owner"
     email: "{cipher}1520ddb622179e8d00dba023ca26366b12757cb0d3520594a155381eef70ca88eee2c4d1bd0f2d7a0752c1acaed5c223"
