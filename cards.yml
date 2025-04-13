@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 cards:
-  message: "Welcome to BankLoan cards related local APIs "
+  message: "Welcome to BankLoan cards related docker APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}bc2ec94023d68dfaaf31a5018df55b13d7067e0958910ac5dd6fea29eb834a3b"
