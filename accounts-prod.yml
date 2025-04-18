@@ -9,3 +9,10 @@ accounts:
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
+
+spring:
+  client:
+    fetchRegistry: false
+    registerWithWureka: false
+    serviceUrl:
+      
