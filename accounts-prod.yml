@@ -10,9 +10,12 @@ accounts:
     - (777) 555-1234
     - (777) 523-1345
 
-spring:
+eureka:
+  instance:
+    hostname: localhost
   client:
+    registerWithEureka: false
     fetchRegistry: false
-    registerWithWureka: false
     serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka
       
