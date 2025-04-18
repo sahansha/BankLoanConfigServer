@@ -10,12 +10,3 @@ loans:
     - (666) 555-2312
     - (666) 523-4321
 
-
-eureka:
-  instance:
-    hostname: localhost
-  client:
-    registerWithEureka: true
-    fetchRegistry: true
-    serviceUrl:
-      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka
