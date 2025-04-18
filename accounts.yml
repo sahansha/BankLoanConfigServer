@@ -9,3 +9,13 @@ accounts:
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
+
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka
