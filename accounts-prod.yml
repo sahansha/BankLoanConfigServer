@@ -1,6 +1,12 @@
 build:
   version: 1.0
 
+logging:
+  level:
+    com:
+      sahansha:
+        accounts: TRACE
+
 accounts:
   message: "Welcome to BankLoan accounts related prod APIs "
   contactDetails:
