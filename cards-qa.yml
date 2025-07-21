@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to BankLoan cards related QA APIs "
   contactDetails:
-    name: "George - QA Lead"
+    name: "Shaky - QA Lead"
     email: "{cipher}87c189c7e8b3417cb72ebc84baf5226bd2aab954f50bea4f36132afd96457c123a507971a3f14e50e435b42ef8491d1d"
   onCallSupport:
     - (666) 555-1234
