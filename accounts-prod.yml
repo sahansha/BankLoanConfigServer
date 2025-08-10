@@ -10,7 +10,7 @@ logging:
         accounts: TRACE
 
 accounts:
-  message: "Welcome to BankLoan accounts related prod APIs "
+  message: "Welcome to BankLoan accounts related production APIs "
   contactDetails:
     name: "Swati - Product Owner"
     email: "{cipher}3d24b8bc44333b24dff6566eec494cd702bc6bff1df957eb6c1712149de9c5de"
@@ -19,3 +19,4 @@ accounts:
     - (777) 523-1345
 
       
+
