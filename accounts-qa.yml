@@ -3,11 +3,12 @@ build:
   version: 2.0
 
 accounts:
-  message: "Welcome to BankLoan accounts related QA APIs "
+  message: "Welcome to BankLoan accounts related Quality Assurance APIs "
   contactDetails:
     name: "Maxwell - QA Lead"
     email: "{cipher}9e33824307a1d2aa7780ef30ae97b7d4d205b3ec7c7538147ba5ecb8cf007046b86d11174fe293873904db0df6a26054"
   onCallSupport:
     - (666) 555-1234
     - (666) 523-1345
+
 
